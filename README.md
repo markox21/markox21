@@ -4,7 +4,7 @@
 
 #### 🌱 I’m currently learning React!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markox21&layout=donut-vertical)](https://github.com/markox21/github-readme-stats)
 
 #### 📫 Correo: markogamarra94@gmail.com
 
