@@ -18,14 +18,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markox21&layout=compact)](https://github.com/markox21/github-readme-stats)
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/watch?v=zTuD8k3JvxQ">
 <strong>Listen to cool music</strong>
 <br />
 <br />
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="/music.gif"> 
 </a>
 </p>
 
