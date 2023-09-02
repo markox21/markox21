@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hola! 👋
+### Me llamo Marko 😄
+### Aquí subo los diferentes proyectos que realizo :D!
 
+📫 Correo: markogamarra94@gmail.com
+💬 Twitter: <url>https://twitter.com/markogamarra1<url>
 <!--
 **markox21/markox21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
