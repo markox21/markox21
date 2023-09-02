@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markox21&layout=compact)](https://github.com/markox21/github-readme-stats)
+
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=zTuD8k3JvxQ">
