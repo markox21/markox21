@@ -2,9 +2,11 @@
 ### Me llamo Marko 😄
 ### Aquí subo los diferentes proyectos que realizo :D!
 
-## 📫 Correo: markogamarra94@gmail.com
+#### 🌱 I’m currently learning React!
 
-## 💬 Twitter: <url>https://twitter.com/markogamarra1<url>
+#### 📫 Correo: markogamarra94@gmail.com
+
+#### 💬 Twitter: <url>https://twitter.com/markogamarra1<url>
 
 
 <!--
