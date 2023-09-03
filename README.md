@@ -2,9 +2,9 @@
 ### Me llamo Marko 😄
 ### Aquí subo los diferentes proyectos que realizo :D!
 
-#### 🌱 I’m currently learning React!
+#### 🌱 Me encuentro aprendiendo React!
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
