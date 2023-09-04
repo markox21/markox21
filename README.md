@@ -37,7 +37,6 @@
 
 #### 💬 Twitter: <url>https://twitter.com/markogamarra1<url>
 
-#### 👯 Linkedin: https://www.linkedin.com/in/marko-gamarra-calle-53262228b/
 
 <!--
 **markox21/markox21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
