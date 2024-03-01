@@ -14,6 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  <a href="https://github.com/markox21/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markox21&layout=compact&theme=jolly&hide_border=true" /></a>
 <td align="center">
+ 
 #### 📫 Correo: markogamarra94@gmail.com
 
-#### 👯 Linkedin: https://www.linkedin.com/in/marko-gamarra-calle-53262228b/
+
